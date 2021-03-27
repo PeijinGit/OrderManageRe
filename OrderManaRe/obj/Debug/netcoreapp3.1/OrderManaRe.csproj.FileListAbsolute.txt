@@ -1,0 +1,12 @@
+D:\Programme\_Projects\Temp\OrderManaRe\OrderManaRe\bin\Debug\netcoreapp3.1\OrderManaRe.exe
+D:\Programme\_Projects\Temp\OrderManaRe\OrderManaRe\bin\Debug\netcoreapp3.1\OrderManaRe.deps.json
+D:\Programme\_Projects\Temp\OrderManaRe\OrderManaRe\bin\Debug\netcoreapp3.1\OrderManaRe.runtimeconfig.json
+D:\Programme\_Projects\Temp\OrderManaRe\OrderManaRe\bin\Debug\netcoreapp3.1\OrderManaRe.runtimeconfig.dev.json
+D:\Programme\_Projects\Temp\OrderManaRe\OrderManaRe\bin\Debug\netcoreapp3.1\OrderManaRe.dll
+D:\Programme\_Projects\Temp\OrderManaRe\OrderManaRe\bin\Debug\netcoreapp3.1\OrderManaRe.pdb
+D:\Programme\_Projects\Temp\OrderManaRe\OrderManaRe\obj\Debug\netcoreapp3.1\OrderManaRe.AssemblyInfoInputs.cache
+D:\Programme\_Projects\Temp\OrderManaRe\OrderManaRe\obj\Debug\netcoreapp3.1\OrderManaRe.AssemblyInfo.cs
+D:\Programme\_Projects\Temp\OrderManaRe\OrderManaRe\obj\Debug\netcoreapp3.1\OrderManaRe.csproj.CoreCompileInputs.cache
+D:\Programme\_Projects\Temp\OrderManaRe\OrderManaRe\obj\Debug\netcoreapp3.1\OrderManaRe.dll
+D:\Programme\_Projects\Temp\OrderManaRe\OrderManaRe\obj\Debug\netcoreapp3.1\OrderManaRe.pdb
+D:\Programme\_Projects\Temp\OrderManaRe\OrderManaRe\obj\Debug\netcoreapp3.1\OrderManaRe.genruntimeconfig.cache
